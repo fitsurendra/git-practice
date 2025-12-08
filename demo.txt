@@ -1,3 +1,2 @@
 "This is my first git file" 
 This is my second line in Git.
-Testing staging.
