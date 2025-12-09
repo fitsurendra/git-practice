@@ -3,4 +3,4 @@ This is my second line in Git.
 This line was added after first push.
 This line was added from GitHub UI.
 This line was added on the feature-notes branch.
-This line is edited differently for conflict.
+This line is edited in both master and conflict-branch.
